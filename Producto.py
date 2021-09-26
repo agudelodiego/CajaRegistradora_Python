@@ -105,3 +105,5 @@ if __name__ == '__main__':
     #!  TAMBIEN ES UN ATRIBUTO DE SOLO LECTURA
     infoProducto = ejemplo.producto
     print("     Informacion del producto",infoProducto)
+
+#SOLO LE AGREGE UN COMENTARIO
